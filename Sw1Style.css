@@ -1,0 +1,41 @@
+.container-fluid{
+	background-color: ;
+	border: 2.5px solid black;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	text-align: center;
+}
+th{
+	font-size: 24px;
+}
+.img-rounded{
+	height: 150px;
+	width: 150px;
+	border-radius: 7.5px;
+	margin: auto;
+	transition: 0.3s all ease-in-out;
+}
+.img-rounded:hover{
+	width: 174px;
+	height: 174px;
+}
+.dot-List{
+	font-size: 15px;
+	text-align: center;
+	list-style: disc;
+}
+.name-Bold{
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+}
+.about-Size{
+	font-size: 23px;
+}
+.weapons-Center{
+	text-align: center;
+}
